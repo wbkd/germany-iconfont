@@ -1,0 +1,21 @@
+{
+  "name": "germany-iconfont",
+  "description": "Iconfont of the German states.",
+  "version": "1.0.0",
+  "keywords": [],
+  "homepage": "http://apps.webkid.io/germany-iconfont",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": ["MIT"],
+  "main": [
+    "./css/germany-iconfont.css",
+    "./fonts/*"
+  ],
+  "ignore": [
+    "*/.*",
+    "*.json",
+    "*.md",
+    "svg",
+    "geojson"
+  ]
+}

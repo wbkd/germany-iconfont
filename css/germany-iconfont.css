@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "germany-iconfont";
-  src: url("./germany-iconfont_cb7c3552c93602b7ec0af0563651c85c.eot");
-  src: url("./germany-iconfont_cb7c3552c93602b7ec0af0563651c85c.eot?#iefix") format("embedded-opentype"),
-       url("./germany-iconfont_cb7c3552c93602b7ec0af0563651c85c.woff") format("woff"),
-       url("./germany-iconfont_cb7c3552c93602b7ec0af0563651c85c.ttf") format("truetype"),
-       url("./germany-iconfont_cb7c3552c93602b7ec0af0563651c85c.svg#germany-iconfont") format("svg");
+  src: url("../fonts/germany-iconfont.eot");
+  src: url("../fonts/germany-iconfont.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/germany-iconfont.woff") format("woff"),
+       url("../fonts/germany-iconfont.ttf") format("truetype"),
+       url("../fonts/germany-iconfont.svg#germany-iconfont") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "germany-iconfont";
-    src: url("./germany-iconfont_cb7c3552c93602b7ec0af0563651c85c.svg#germany-iconfont") format("svg");
+    src: url("../fonts/germany-iconfont.svg#germany-iconfont") format("svg");
   }
 }
 
