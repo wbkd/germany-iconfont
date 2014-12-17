@@ -1,7 +1,7 @@
 germany-iconfont
 ===============
 
-An iconfont of the germany states.
+An iconfont of the german states.
 
 ![german-icons](http://i.imgur.com/tV8R5hs.png)
 ![german-icons-2](http://i.imgur.com/ZmCWNJt.png)
