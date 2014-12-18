@@ -18,7 +18,7 @@ via [npm](https://www.npmjs.com/):
 npm install germany-iconfont
 ```
 
-via git clone
+via git clone:
 ```
 git clone git@github.com:wbkd/germany-iconfont.git
 ```
