@@ -6,12 +6,24 @@ An iconfont of the german states.
 ![german-icons](http://i.imgur.com/tV8R5hs.png)
 ![german-icons-2](http://i.imgur.com/ZmCWNJt.png)
 
+#### Installation
+
+via [Bower](http://bower.io/):
+```
+bower install germany-iconfont
+```
+
+via [npm](https://www.npmjs.com/):
+```
+npm install germany-iconfont
+```
+
 #### Usage
 
 add this line to your HTML:
 
 ```
-<link href="germany-iconfont/css/germany-iconfont.css" rel="stylesheet">
+<link href="<path-to-font>/css/germany-iconfont.css" rel="stylesheet">
 ```
 
 #### Available classes
