@@ -55,3 +55,4 @@ These are the class names you can use:
 
 Made with [Font Custom](http://fontcustom.com/).
 Inspired by [StateFace](http://propublica.github.io/stateface/).
+See also: [iconfont of berlin districts](https://github.com/wbkd/berlin-iconfont).
